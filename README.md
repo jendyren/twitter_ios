@@ -22,6 +22,11 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Log in: <img src='http://g.recordit.co/nqItWDMB2H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-Log out: <img src='http://g.recordit.co/xLLoFSy2uj.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
+
+Log in: 
+<img src='http://g.recordit.co/nqItWDMB2H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+Log out: 
+<img src='http://g.recordit.co/xLLoFSy2uj.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
