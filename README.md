@@ -22,6 +22,6 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Log in: <img src='http://g.recordit.co/nqItWDMB2H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Log out: <img src='http://g.recordit.co/xLLoFSy2uj.gif' title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
 
